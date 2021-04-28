@@ -1,0 +1,28 @@
+$body-bg: #495867;
+$white: #fff;
+$body-color: #C18C5D;
+$link-color: #CE796B;
+$navbar-light-color: #CE796B;
+$navbar-light-brand-color: #C18C5D;
+$text-muted: #CDA07A;
+$component-active-bg: #E7AD99;
+$primary: #ECC8AF;
+$jumbotron-color: white;
+
+
+.jumbotron {
+    background-image: url("https://previews.dropbox.com/p/thumb/ABJQH6XNMW14yHEE_pQguntRZP4mEK8_eSKfVSunlL-886iJ1Svg6J9TwuTYYAnG6mq-fJ_KTluR5cU9QUQelkBkOn6xTNTY1RR7A6kYXn_uJ5B7RKc6rYFCV3Zx8n7-ljJFWua5jRaN6ZwQVV6YVO7hWjQE_GwvolsGsjDcXeecxXCBYRLldC_eaVAGu_770T5nOg29DWtDg9aNZQYwsycnEwPmluC8uaM1s000JnpraxD2TosM_mrXXm5QtvNtpGOEWsmn32-FJsfYqM-rqC6rEJpiVbTQuPB4eYX2dccs5Ej1xQXCPxr_CDONnbpRBRsJtivprrtF2SMFvX765Z0hMiAn-l2tw7bg3Hgcf7o_hg/p.jpeg?fv_content=true&size_mode=5");
+    background-position: center center;
+}
+
+.card-img {
+    background-size: 100% 100%;
+}
+
+@import "~bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/reboot";
+@import "~bootstrap/scss/buttons";
+@import "~bootstrap/scss/alert";
+@import "node_modules/bootstrap/scss/bootstrap";
